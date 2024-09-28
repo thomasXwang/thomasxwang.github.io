@@ -147,4 +147,4 @@ education:
 ## About Me
 
 I am a third-year CS PhD student in the MLIA team, at Sorbonne Université.  
-I am exploring links between dynamical systems and deep learning, under the supervision of <a href="http://www-connex.lip6.fr/~gallinar/gallinari/pmwiki.php">Pr. Patrick Gallinari</a> and <a href="https://www.isir.upmc.fr/personnel/baskiotis/">Assoc. Prof. Nicolas Baskiotis.
+I am exploring links between dynamical systems and deep learning, under the supervision of <a href="https://pages.isir.upmc.fr/gallinari/">Pr. Patrick Gallinari</a> and <a href="https://www.isir.upmc.fr/personnel/baskiotis/">Assoc. Prof. Nicolas Baskiotis</a>.
