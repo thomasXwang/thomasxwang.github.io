@@ -17,7 +17,7 @@ marketing:
     description: 'PhD Student in Machine Learning / Deep Learning at Sorbonne Université'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-5XRHY7WXPC'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -57,4 +57,4 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
