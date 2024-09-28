@@ -15,8 +15,10 @@ sections:
     content:
       title: Teaching
       filters:
-        folders:
-          - teaching
+        # folders:
+        #   - teaching
+        folders: [""]  # This tells Hugo to look in the current folder
+
     design:
       view: article-grid
       columns: 2
