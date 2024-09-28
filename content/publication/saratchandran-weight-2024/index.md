@@ -23,10 +23,6 @@ abstract: In this article, we introduce a novel normalization technique for neur
   Fields (NeRF), and 3D shape modeling. Our findings indicate that our normalization
   method is not only competitive but also outperforms existing weight normalization
   techniques from the literature.
-tags:
-- Computer Science - Computer Vision and Pattern Recognition
-- Hemanth
-- Thomas
 links:
 - name: URL
   url: http://arxiv.org/abs/2409.03424
