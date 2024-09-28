@@ -17,8 +17,8 @@ publishDate: '2024-09-28T18:10:52.764687Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Neruips 2023*
-publication_short: In *Neurips 2023*
+publication: In *NeurIPS 2023*
+publication_short: In *NeurIPS 2023*
 
 doi: 10.48550/arXiv.2306.07266
 abstract: Machine learning approaches for solving partial differential equations require

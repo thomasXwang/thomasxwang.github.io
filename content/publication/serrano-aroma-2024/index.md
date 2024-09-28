@@ -16,8 +16,8 @@ publishDate: '2024-09-28T18:10:52.772253Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Neurips 2024*
-publication_short: In *Neurips 2024*
+publication: In *NeurIPS 2024*
+publication_short: In *NeurIPS 2024*
 
 doi: 10.48550/arXiv.2406.02176
 abstract: We present AROMA (Attentive Reduced Order Model with Attention), a framework
