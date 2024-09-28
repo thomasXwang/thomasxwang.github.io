@@ -15,9 +15,9 @@ sections:
     content:
       title: Teaching
       filters:
-        files:
-          - teaching/teaching.md
+        folders:
+          - teaching
     design:
-      view: article-list  # Using article-list to display the single file content better
-      columns: 1  # Using 1 column for better readability in a single file
+      view: article-grid
+      columns: 2
 ---
