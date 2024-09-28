@@ -12,9 +12,6 @@ abstract: Operator learning methods are too often constrained by a fixed samplin
   operator learning methods to learn on any sampling. We show that our method can
   perform inference on unseen samplings, and that it allows returning outputs as continuous
   functions.
-tags:
-- Thomas
-- Tiny
 links:
 - name: URL
   url: 
