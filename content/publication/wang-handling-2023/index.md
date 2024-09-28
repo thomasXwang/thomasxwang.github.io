@@ -5,8 +5,16 @@ authors:
 - Patrick Gallinari
 date: '2023-03-01'
 publishDate: '2024-09-28T18:10:52.755341Z'
-publication_types:
-- article-journal
+
+ Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: In *ICLR 2023 Tiny Papers Track*
+# publication_short: In *ICW*
+
 abstract: Operator learning methods are too often constrained by a fixed sampling
   of both the input and output functions. We propose a novel method to allow current
   operator learning methods to learn on any sampling. We show that our method can

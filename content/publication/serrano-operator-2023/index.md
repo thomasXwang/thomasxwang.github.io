@@ -10,9 +10,16 @@ authors:
 - Patrick Gallinari
 date: '2023-06-01'
 publishDate: '2024-09-28T18:10:52.764687Z'
-publication_types:
-- manuscript
-publication: '*arXiv*'
+
+ Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: In *Neruips 2023*
+publication_short: In *Neurips 2023*
+
 doi: 10.48550/arXiv.2306.07266
 abstract: Machine learning approaches for solving partial differential equations require
   learning mappings between function spaces. While convolutional or graph neural networks

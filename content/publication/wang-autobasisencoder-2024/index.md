@@ -7,8 +7,16 @@ authors:
 - Patrick Gallinari
 date: '2024-03-01'
 publishDate: '2024-09-28T18:10:52.786610Z'
-publication_types:
-- paper-conference
+
+ Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: In *ICLR 2024 Workshop on AI4DifferentialEquations In Science*
+# publication_short: In *ICLR 2024 Workshop on AI4DifferentialEquations In Science*
+
 abstract: We introduce AutoBasisEncoder, a novel framework designed for operator learn-
   ing – the task of learning to map from one function to another. This approach au-
   tonomously discovers a basis of functions optimized for the target function space

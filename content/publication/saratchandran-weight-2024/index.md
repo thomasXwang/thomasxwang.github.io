@@ -6,9 +6,17 @@ authors:
 - Simon Lucey
 date: '2024-09-01'
 publishDate: '2024-09-28T18:10:52.779487Z'
-publication_types:
-- manuscript
-publication: '*arXiv*'
+
+ Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: In *European Conference on Computer Vision 2024*
+publication_short: In *ECCV 2024*
+
+# publication: '*arXiv*'
 doi: 10.48550/arXiv.2409.03424
 abstract: In this article, we introduce a novel normalization technique for neural
   network weight matrices, which we term weight conditioning. This approach aims to

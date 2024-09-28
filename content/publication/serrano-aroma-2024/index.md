@@ -9,9 +9,16 @@ authors:
 - Patrick Gallinari
 date: '2024-06-01'
 publishDate: '2024-09-28T18:10:52.772253Z'
-publication_types:
-- manuscript
-publication: '*arXiv*'
+
+ Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: In *Neurips 2024*
+publication_short: In *Neurips 2024*
+
 doi: 10.48550/arXiv.2406.02176
 abstract: We present AROMA (Attentive Reduced Order Model with Attention), a framework
   designed to enhance the modeling of partial differential equations (PDEs) using
