@@ -8,7 +8,7 @@ authors:
 date: '2024-03-01'
 publishDate: '2024-09-28T18:10:52.786610Z'
 
- Publication type.
+# Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
