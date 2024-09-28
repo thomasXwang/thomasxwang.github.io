@@ -54,18 +54,21 @@ interests:
 education:
   - area: PhD in Artificial Intelligence
     institution: Sorbonne Université
-    date_start: 2021
-    date_end: now
+    # date_start: 2021
+    # date_end: now
+    year: 2021-now
 
   - area: MSc in Artificial Intelligence
     institution: Sorbonne Université
     # date_start: 2020
-    date_end: 2021
+    # date_end: 2021
+    year: 2021
 
   - area: MSc in Industrial Engineering
     institution: Ecole Centrale Paris (now CentraleSupelec)
     # date_start: 2016
-    date_end: 2018
+    # date_end: 2018
+    year: 2018
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
