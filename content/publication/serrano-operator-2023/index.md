@@ -26,11 +26,6 @@ abstract: Machine learning approaches for solving partial differential equations
   spatio-temporal forecasting, and inverse problems like geometric design. CORAL demonstrates
   robust performance across multiple resolutions and performs well in both convex
   and non-convex domains, surpassing or performing on par with state-of-the-art models.
-tags:
-- Computer Science - Artificial Intelligence
-- Computer Science - Machine Learning
-- Thomas
-- Coral
 links:
 - name: URL
   url: http://arxiv.org/abs/2306.07266
