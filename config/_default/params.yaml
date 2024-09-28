@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: mr robot
+  theme_night: mr robot
 
 # SEO
 marketing:
