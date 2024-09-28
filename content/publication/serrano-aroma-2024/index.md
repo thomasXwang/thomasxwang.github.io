@@ -25,8 +25,6 @@ abstract: We present AROMA (Attentive Reduced Order Model with Attention), a fra
   longer rollouts compared to conventional MSE training. AROMA's superior performance
   in simulating 1D and 2D equations underscores the efficacy of our approach in capturing
   complex dynamical behaviors.
-tags:
-- Computer Science - Machine Learning
 links:
 - name: URL
   url: http://arxiv.org/abs/2406.02176
