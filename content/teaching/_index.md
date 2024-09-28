@@ -17,7 +17,7 @@ sections:
       filters:
         # folders:
         #   - teaching
-        folders: [""]  # This tells Hugo to look in the current folder
+        folders: ["teaching"]  # This tells Hugo to look in the current folder
 
     design:
       view: article-grid
