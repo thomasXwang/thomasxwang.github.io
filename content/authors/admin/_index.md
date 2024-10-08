@@ -146,5 +146,6 @@ education:
 
 ## About Me
 
-I am a third-year CS PhD student in the MLIA team, at Sorbonne Université.  
-I am exploring links between dynamical systems and deep learning, under the supervision of <a href="https://pages.isir.upmc.fr/gallinari/">Pr. Patrick Gallinari</a> and <a href="https://www.isir.upmc.fr/personnel/baskiotis/">Assoc. Prof. Nicolas Baskiotis</a>.
+I am a third-year PhD student in Artificial Intelligence at Sorbonne Université, working with the MLIA team within the ISIR (Robotics) laboratory. My research lies at the intersection of deep learning and dynamical systems, where I leverage AI models to solve complex parametric PDEs, under the supervision of <a href="https://pages.isir.upmc.fr/gallinari/">Pr. Patrick Gallinari</a> and <a href="https://www.isir.upmc.fr/personnel/baskiotis/">Assoc. Prof. Nicolas Baskiotis</a>. My ultimate goal is to develop AI tools that not only advance theoretical understanding but also have a tangible impact on solving real-world scientific and engineering problems.
+
+Feel free to reach out to me for collaborations or opportunities in AI and machine learning!
